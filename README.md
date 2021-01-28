@@ -4,12 +4,12 @@ Doing Math 324 Probability and Statistics using R and Python
 ### Notes
 - Homework, TODO, and Forum Post solutions are in Jupyter Notebooks.
 - **The code looks better if you use Jupyter than the github viewer.**
-- Math 324 Homework is WebAssign.
+- The Math 324 Homework is from WebAssign.
 - Python solutions primarily use numpy, pandas, and matplotlib.
 - R solutions use the base R library.
 - I had to create custom algorithms to solve some homework problems in one go. Some of those algorithms were helpful during the exams.
 - Homework solutions are in R or Python or Both.
-- Past Chapter 3 I realized that doing the homework in Python and R was more time consuming than just writing it down on paper so some answers are incomplete or not done at all. Basically, if the homework took 6 hours to do then writing it in Python and R would take 12 hours+. 
+- Past Chapter 3 I realized that doing the homework in Python and R was more time consuming than just writing it down on paper so some answers are incomplete or not done at all. Basically, if the homework took 6 hours to do then writing it in Python and/or R would take 12 hours+. 
 - Some solutions involved me using MS paint to make the visual representation... 
 
 ### Questions and Answers
