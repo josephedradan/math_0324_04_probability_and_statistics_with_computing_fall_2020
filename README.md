@@ -22,7 +22,7 @@ Yeah maybe...
 #### Are the answers correct?
 Yeah, also some questions have my answer along with the WebAssign answer.
 
-### Example solutions viewed in Jupyter
+### Examples of problems and solutions viewed in Jupyter
 ![example_1](../master/images/example_1.png)
 ![example_2](../master/images/example_2.png)
 ![example_3](../master/images/example_3.png)
