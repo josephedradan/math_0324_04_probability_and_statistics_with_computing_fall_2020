@@ -12,7 +12,7 @@ Doing Math 324 Probability and Statistics using R and Python
 - Past Chapter 3 I realized that doing the homework in Python and R was more time consuming than just writing it down on paper so some answers are incomplete or not done at all. Basically, if the homework took 6 hours to do then writing it in Python and R would take 12 hours+. 
 - Some solutions involved me using MS paint to make the visual representation... 
 
-### Question and Answers
+### Questions and Answers
 #### *Was it required to do the homework in Python or R?*
 No, I did it because I though it would be cool and fun to do the homework in Python and R. Basically, I would automate my homework.
 #### *Did that work?*
