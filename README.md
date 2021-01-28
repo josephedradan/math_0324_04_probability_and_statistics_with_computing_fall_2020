@@ -20,7 +20,7 @@ No, I realized I wasted to much time learning Python and R just so I could solve
 #### *Will I convert my homework from paper to code eventaully?*
 Yeah maybe...
 #### Are the answers correct?
-Yeah, also some question have my answer along with the WebAssign answer.
+Yeah, also some questions have my answer along with the WebAssign answer.
 
 ### Example solutions viewed in Jupyter
 ![example_1](../master/images/example_1.png)
