@@ -22,5 +22,6 @@ No, I realized I wasted to much time learning Python and R just so I could solve
 
 ### Example solutions viewed in Jupyter
 ![example_1](../master/images/example_1.png)
-![example_2](../images/example_2.png)
+![example_2](../master/images/example_2.png)
+![example_3](../master/images/example_3.png)
 
