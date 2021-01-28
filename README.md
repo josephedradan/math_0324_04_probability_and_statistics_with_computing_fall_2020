@@ -3,8 +3,8 @@ Doing Math 324 Probability adn Statistics using R and Python
 
 ### Notes
 - Solutions are in jupyter notebooks.
-- Math 324 Homework from webassign done using Python or R to solve the solutions.
-- Python code solutions primarily use numpy, pandas, matplotlib.
-- R code solutions uses base R library.
+- Math 324 Homework from webassign done using Python or R.
+- Python code solutions primarily use numpy, pandas, and matplotlib.
+- R code solutions use the base R library.
 - Homework solutions are in R or Python or Both.
-- Past Chapter 3 I realized that doing the homework in Python and R was more time consuming than just writing it down on paper so some answers are incomplete.
+- Past Chapter 3 I realized that doing the homework in Python and R was more time consuming than just writing it down on paper so some answers are incomplete or not done at all. Basically, if the homework took 6 hours to do then writing it in Python and R would take 12 hours+.
