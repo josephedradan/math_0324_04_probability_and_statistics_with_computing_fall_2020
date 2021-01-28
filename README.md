@@ -14,10 +14,13 @@ Doing Math 324 Probability and Statistics using R and Python
 
 ### Question and Answers
 #### *Was it required to do the homework in Python or R?*
-No, I did it because I though it would be cool and fun to do the homework in Python and R so I could essentially automate my homework
+No, I did it because I though it would be cool and fun to do the homework in Python and R. Basically, I would automate my homework.
 #### *Did that work?*
 No, I realized I wasted to much time learning Python and R just so I could solve 1 problem.
-
+#### *Will I convert my homework from paper to code eventaully?*
+Yeah maybe...
+#### Are the answers correct?
+Yeah, on some questions I posted the answer from WebAssign along my answer.
 
 ### Example solutions viewed in Jupyter
 ![example_1](../master/images/example_1.png)
